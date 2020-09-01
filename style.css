@@ -1,16 +1,16 @@
 body {
   margin: 0;
   min-width: 960px;
-  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-family: "Snell Roundhand", cursive;//"Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-color: #ece6e6;
+  background-image: url("img/img/my1.png");
   background-repeat: no-repeat;
   background-position: top center;
+  background-size: 100%;
 }
-
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -30,7 +30,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: black;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -38,16 +38,16 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("img/img/icon-email-header.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("img/img/icon-phone-header.svg");
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 520px;
 }
 
 .hero-image .container {
@@ -111,11 +111,11 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("img/img/icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("img/img/icon-css.svg");
 }
 
 .level {
@@ -185,10 +185,10 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: url("img/img/icon-email-footer.svg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: url("img/img/icon-phone-footer.svg");
 }
